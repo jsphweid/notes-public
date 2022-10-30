@@ -1,0 +1,1 @@
+# ability to see how how a piece is segmented from a high level

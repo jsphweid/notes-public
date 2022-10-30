@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "93b07161816446b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e536bff95f07275c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08efbb18a4972748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79711b0e3ae7ed81",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd02fe3e21806420",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "303a1eb69d977836",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb258de7c9c9b09a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7cc60ab6ddf31bae",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5770a8d3e6a79fa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fbb62bced96d372",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15d322bfc4c2517f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b789f3d6a4f6318b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learn.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4c82da89fd5c460",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4f19a3a90a6eeb7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learn.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "08efbb18a4972748",
+  "lastOpenFiles": [
+    "What is Joseph Working On.md",
+    "What is Joseph Working On/parrot practice room.md",
+    "Learn.md",
+    "Deep learning-based automatic downbeat tracking  a brief review [[Deep learning-based automatic downbeat tracking a.md",
+    "Unsupervised Neural Generative Semantic Hashing [[Unsupervised Neural Generative Semantic Hashing (2.md",
+    "Learn/Academic Papers Blogs/Done - Skimmed (I'm too stupid)/Deep learning-based automatic downbeat tracking a .md",
+    "Learn/Academic Papers Blogs.md",
+    "What is Joseph Working On/Untitled.md",
+    "What is Joseph Working On/reimagine debussy g minor.md",
+    "What is Joseph Working On/project carryoaky com (i e 'reimagine').md"
+  ]
+}

@@ -1,0 +1,3 @@
+# add library like librosa via lambdas...
+
+Status: In progress
